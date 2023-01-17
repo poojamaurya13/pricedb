@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445909105750",
+    "project_id": "pricedb-2ed73",
+    "storage_bucket": "pricedb-2ed73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445909105750:android:d783fceefda7544f020ff7",
+        "android_client_info": {
+          "package_name": "com.pricely.pricedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445909105750-b0n8m7knumsijqj83hm3rm1c4dgbvfmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK5VpCSqP449BJNK4AwqOv3o7_7DASMm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445909105750-b0n8m7knumsijqj83hm3rm1c4dgbvfmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
